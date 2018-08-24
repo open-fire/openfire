@@ -21,7 +21,7 @@ Feature List:
   * Model Match Binding System
   * Dynamic Power Control
   * Support PPM & Serial module protocols
-  * WiFi support for Module configuration & telemetry for modules with ESP2866
+  * WiFi support for Module configuration & telemetry for modules with ESP8266
   * User control and dynamic switching between High Latency and High Resilience modes
   * Failsafe
   * Dynamic Channel mapping between OTA and Module:Tx
